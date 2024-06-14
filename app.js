@@ -58,7 +58,7 @@ document.querySelector(".btn-roll").addEventListener("click", function() {
     // obj.address.country;
 
     // Улаан цэгийг шилжүүлэх
-    document.querySelector(".player-0-panel").classList.toggle("active");
+    document.querySelector(".player-0-panel").classList.toggle("active");  // ene toggle gedeg function heregtei ym bn herev active gedeg function bh ym bol nemen bhgu bol hasan 
     document.querySelector(".player-1-panel").classList.toggle("active");
 
     // Шоог түр алга болгоно.
